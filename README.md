@@ -1,6 +1,6 @@
 # Restaurant_Finder
 
-* Using this application one can add, update, delete restuarants.
+* Using this application one can add, update, delete restaurants.
 
 * Every restaurant can be given a rating and reviewed by a unique user.
 
